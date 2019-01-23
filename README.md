@@ -1,0 +1,1 @@
+# Homeworks for the Class ITMD-513 (Python)
