@@ -1,4 +1,4 @@
-# Homework test cases
+# Homework test cases - Engine simulation
 
 
 ## Test case 1
@@ -24,3 +24,9 @@
 
 ## Test case 8
 ![alt text](images/test_case_8.png "Test case 8")
+
+## Test case 9
+![alt text](images/test_case_9.png "Test case 9")
+
+## Test case 10
+![alt text](images/test_case_10.png "Test case 10")
