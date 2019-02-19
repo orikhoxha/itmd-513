@@ -1,0 +1,45 @@
+Student Name: BOKOW,R. 
+Student ID Number: 2333021
+
+Course Code		 Course Credits		 Course Grade		
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+NS201					3					A					
+MG342					3					A					
+FA302					1					A					
+
+Total Semester Course Credits Completed: 7
+Semester GPA: 4.0
+
+
+
+Student Name: FALLIN,D. 
+Student ID Number: 2574063
+
+Course Code		 Course Credits		 Course Grade		
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MK106					3					C					
+MA208					3					B					
+CM201					3					C					
+CP101					2					B					
+
+Total Semester Course Credits Completed: 11
+Semester GPA: 2.45
+
+
+
+Student Name: KINGSLEY,M. 
+Student ID Number: 2663628
+
+Course Code		 Course Credits		 Course Grade		
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+QA140					3					A					
+CM245					3					B					
+EQ521					3					A					
+MK341					3					A					
+CP101					2					B					
+
+Total Semester Course Credits Completed: 14
+Semester GPA: 3.64
+
+
+
