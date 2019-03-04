@@ -1,0 +1,3 @@
+Rent     Gas     Food     Clothing
+400      100     300      20
+
