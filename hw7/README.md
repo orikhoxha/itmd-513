@@ -1,7 +1,5 @@
 # Homework - String manipulation - Entered the phone number iex. 555-GET-FOOD, convert to phone number based on the mappings between characters and numbers.
 
-### hw6-1 - Get the expenses from a file and display in a pie chart.
-
 ### Test cases
 
 ## Test case 1
